@@ -17,7 +17,7 @@ import java.util.Iterator;
 import java.util.List;
 
 public class CountryBot {
-    private static final String token = "5594819972:AAFGiRVrsjkLZ2s3LG1b6xqE_t--Vtx0xn8";
+    private static final String token = "YOUR_TOKEN_FROM_@BotFather";
     private static final String welcomeMessage = "Hi! Enter the name of the country (Russia, Belarus, France, Peru, etc) to get information about it!";
 
     public static void main(String[] args) {
